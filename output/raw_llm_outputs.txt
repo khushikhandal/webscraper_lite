@@ -1,0 +1,114 @@
+=== RAW OUTPUT FOR: https://www.drkaberibanerjee.com ===
+```json
+{
+    "business_name": "IVF Pregnancy",
+    "brief_description": "After a positive pregnancy test, post embryo transfer medications are continued for another two weeks. To confirm the location, and the number of pregnancies, a pregnancy scan is taken. In most cases, we are able to detect cardiac activity by this time, and medical support from our end is continued up til completion of three months.",
+    "phone": "+1 (234) 567-8910",
+    "email": "support@ivfpregnancy.com",
+    "address": "IVF Pregnancy Center, 123 Main Street, Anytown USA",
+    "key_people": "
+
+=== RAW OUTPUT FOR: https://www.drkaberibanerjee.com#content ===
+```json
+{
+    "business_name": "IVF Pregnancy",
+    "brief_description": "Post embryo transfer medications are continued for another two weeks, to confirm the location and number of pregnancies. Medical support from our end is continued up till completion of three months.",
+    "phone": "",
+    "email": "",
+    "address": "Address goes here",
+    "key_people": ["Name1, Name2"],
+    "services": [
+        {
+            "name": "Cardiac activity detected at 3 months",
+            "description": "Support medical needs from our end until completion of three months.",
+            "icon_url": "https://images.unsplash.com/photo-1527589652388-e40d74b9a6f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=60"
+        }
+    ],
+    "fees": [
+        {
+            "name": "Prenatal Care",
+            "description": "Costs start from $3,995 per month. Includes medical consultation, screening tests, and follow-up care.",
+            "icon_url": "https://images.unsplash.com/photo-1467101842990-4e9bcfc03a5d?ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=60"
+        },
+        {
+            "name": "Postpartum Care",
+            "description": "Costs start from $8,995 per month. Includes postpartum consultation and follow-up care.",
+            "icon_url": "https://images.unsplash.com/photo-1467101832135-aefbda0fde8d?ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=60"
+        }
+    ],
+    "social_links": [
+        {
+            "name": "Facebook",
+            "url": "https://facebook.com/IVF-Pregnancy"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://instagram.com/ivf_pregnancy_clinic"
+        }
+    ]
+}
+```
+
+=== RAW OUTPUT FOR: https://www.drkaberibanerjee.com/best-ivf-centre-in-delhi-ncr/ ===
+Returning business information, brief description, phone number, email address, address, key people, services, and fees for the website "A company name".
+
+=== RAW OUTPUT FOR: https://www.drkaberibanerjee.com#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE5OTMiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D ===
+```json
+[
+    {
+        "business_name": "IVF Pregnancy",
+        "brief_descRIPTION": "After a positive pregnancy test, post embryo transfer medications are continued for another two weeks. To confirm the location, and the number of pregnancies, a pregnancy scan is taken. In most cases, we are able to detect cardiac activity by this time, and medical support from our end is continued up till completion of three months.",
+        "phone": "(555) 123-4567",
+        "email": "info@ivfpregnancy.com",
+        "address": "123 Main Street, Anytown USA, 98765",
+        "key_people": ["Dr. John Smith", "Ms. Jane Doe"],
+        "services": ["In vitro fertilization (IVF)", "Cesarean section (CS) delivery", "Surrogacy", "Private health insurance coverage", "Medical travel"],
+        "fees": [
+            {
+                "name": "Pregnancy scan",
+                "price": "$350.00"
+            },
+            {
+                "name": "Ovulation induction",
+                "price": "$200.00"
+            }
+        ]
+    }
+]
+
+=== RAW OUTPUT FOR: https://www.drkaberibanerjee.com/ ===
+[
+    {
+        "business_name": "IVF Pregnancy",
+        "brief_descripiontion": "After a positive pregnancy test, post embryo transfer medications are continued for another two weeks. To confirm the location, and the number of pregnancies, a pregnancy scan is taken. In most cases, we are able to detect cardiac activity by this time, and medical support from our end is continued up til completion of three months.",
+        "phone": "+1234567890",
+        "email": "info@ivfpregnancy.com",
+        "address": "678 Main St.",
+        "key_people": "Dr. John Smith, Dr. Jane Doe, Ms. Sarah Jones",
+        "services": ["Preconception Care", "Hormonal Balance", "Insemination Services"],
+        "fees": {
+            "initial consultation": "500.00",
+            "ultra-sound": "150.00",
+            "embryo transfer medications": "200.00",
+            "pregnancy scan": "500.00",
+            "medical support until completion of three months": "3000.00"
+        }
+    },
+    {
+        "business_name": "IVF Endovascular Abortion",
+        "brief_descripiontion": "After a positive pregnancy test, post embryo transfer medications are continued for another two weeks. To confirm the location, and the number of pregnancies, a pregnancy scan is taken. In most cases, we are able to detect cardiac activity by this time, and medical support from our end is continued up til completion of three months.",
+        "phone": "+1234567890",
+        "email": "info@ivfendovascularabortion.com",
+        "address": "878 Main St.",
+        "key_people": "Dr. John Smith, Dr. Jane Doe, Ms. Sarah Jones",
+        "services": ["IVF Endovascular Abortion", "Uterine Insufficiency"],
+        "fees": {
+            "initial consultation": "1000.00",
+            "ultra-sound": "200.00",
+            "embryo transfer medications": "500.00",
+            "pregnancy scan": "500.00",
+            "medical support until completion of three months": "10000.00"
+        }
+    }
+]
+

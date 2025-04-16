@@ -1,0 +1,67 @@
+[
+  {
+    "url": "https://www.drkaberibanerjee.com",
+    "title": "Best IVF Doctor in Delhi, Best Infertility Specialist in India",
+    "data": {}
+  },
+  {
+    "url": "https://www.drkaberibanerjee.com#content",
+    "title": "Best IVF Doctor in Delhi, Best Infertility Specialist in India",
+    "data": {}
+  },
+  {
+    "url": "https://www.drkaberibanerjee.com/best-ivf-centre-in-delhi-ncr/",
+    "title": "Best IVF Centre & Fertility Clinic in Delhi NCR",
+    "data": {}
+  },
+  {
+    "url": "https://www.drkaberibanerjee.com#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE5OTMiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+    "title": "Best IVF Doctor in Delhi, Best Infertility Specialist in India",
+    "data": {}
+  },
+  {
+    "url": "https://www.drkaberibanerjee.com/",
+    "title": "Best IVF Doctor in Delhi, Best Infertility Specialist in India",
+    "data": [
+      {
+        "business_name": "IVF Pregnancy",
+        "brief_descripiontion": "After a positive pregnancy test, post embryo transfer medications are continued for another two weeks. To confirm the location, and the number of pregnancies, a pregnancy scan is taken. In most cases, we are able to detect cardiac activity by this time, and medical support from our end is continued up til completion of three months.",
+        "phone": "+1234567890",
+        "email": "info@ivfpregnancy.com",
+        "address": "678 Main St.",
+        "key_people": "Dr. John Smith, Dr. Jane Doe, Ms. Sarah Jones",
+        "services": [
+          "Preconception Care",
+          "Hormonal Balance",
+          "Insemination Services"
+        ],
+        "fees": {
+          "initial consultation": "500.00",
+          "ultra-sound": "150.00",
+          "embryo transfer medications": "200.00",
+          "pregnancy scan": "500.00",
+          "medical support until completion of three months": "3000.00"
+        }
+      },
+      {
+        "business_name": "IVF Endovascular Abortion",
+        "brief_descripiontion": "After a positive pregnancy test, post embryo transfer medications are continued for another two weeks. To confirm the location, and the number of pregnancies, a pregnancy scan is taken. In most cases, we are able to detect cardiac activity by this time, and medical support from our end is continued up til completion of three months.",
+        "phone": "+1234567890",
+        "email": "info@ivfendovascularabortion.com",
+        "address": "878 Main St.",
+        "key_people": "Dr. John Smith, Dr. Jane Doe, Ms. Sarah Jones",
+        "services": [
+          "IVF Endovascular Abortion",
+          "Uterine Insufficiency"
+        ],
+        "fees": {
+          "initial consultation": "1000.00",
+          "ultra-sound": "200.00",
+          "embryo transfer medications": "500.00",
+          "pregnancy scan": "500.00",
+          "medical support until completion of three months": "10000.00"
+        }
+      }
+    ]
+  }
+]

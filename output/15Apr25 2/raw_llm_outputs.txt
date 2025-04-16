@@ -1,0 +1,93 @@
+=== RAW OUTPUT FOR: https://www.pinnaclefertility.com/team-members/dr-michael-dimattina ===
+{
+  "business_name": "Dominion Fertility",
+  "brief_description": "Dr. Michael DiMattiña founded Dominion Fertility in 1987 and has been a leader in reproductive medicine for over three decades. He performed the first successful Natural Cycle IVF procedure in the Washington, D.C. Area in 2007 and holds numerous "firsts" in reproductive medicine, including the region's first GIFT, ZIFT, and ICSI procedures. Dr. DiMattiña is recognized for his innovative work in Preimplantaction Gene Testing (PGT) and dedication to helping patients overcome repetitive embryo implantation failure. He currently sees patients at Dominion Fertility's Arlington and Bethesda offices, continuing his commitment to advancing fertility treatment and patient care.",
+  "phone": "(301) 942-6782",
+  "email": "dominionfertility@gmail.com",
+  "address": "10101 5th Street NE, Suite 400, Arlington, VA 22209",
+  "key_people": [
+    "
+
+=== RAW OUTPUT FOR: https://www.pinnaclefertility.com/patient-portals ===
+[
+{
+    "business_name": "Pinnacle Fertility Clinics",
+    "brief_descripition": "Access your Patient Portal",
+    "phone": "(123) 456-7890",
+    "email": "
+
+=== RAW OUTPUT FOR: https://www.pinnaclefertility.com/ ===
+[
+{
+    "business_name": "High Quality Care",
+    "brief_description": "We are committed to providing you with industry leading care at every step of your journey. From the initial consultation and beyond, you can rest assured that you are receiving the personalized attention and communication that you deserves.",
+    "phone": "(555) 123-4567",
+    "email": "info@highqualitycare.com",
+    "address": "Address goes here",
+    "key_people": ["Dr. John Smith", "Ms. Mary Jane Doe"],
+    "services": [
+        {
+            "name": "Reproductive Medicine",
+            "description": "Our team of licensed and experienced reproductive medicine specialists are ready to assist you in achieving your fertility goals, including IVF, ICSI, IUI, PGT-T, and ART. We pride ourselves on offering the most comprehensive care available."
+        },
+        {
+            "name": "Natural Fertility Treatment",
+            "description": "If you want to try natural fertility treatments or have concerns about preserving your fertility for the future, we offer a range of fertility support services that can help you achieve your goals. These may include IVF coaching, IUI coaching, and egg freezing."
+        },
+        {
+            "name": "Pregnancy Services",
+            "description": "If you are pregnant or plan to become pregnant soon, we offer a range of prenatal care services designed to help you stay healthy during your pregnancy and maintain the wellbeing of your baby throughout. Our team offers ultrasounds, appointments with pediatricians, and more."
+        },
+        {
+            "name": "Menopause Management",
+            "description": "If you’re going through menopause or plan to become pregnant soon, we offer a range of services designed to help you manage the changes associated with this stage of your life. These may include hormone replacement therapy, supplements, and more."
+        },
+        {
+            "name": "Sexual Health",
+            "description": "If you're looking for sexual health care, we offer a range of services designed to help you maintain healthy vaginal health, improve sexual function, and provide education on topics such as menstrual cycles, pregnancy, and more."
+        }
+    ],
+    "fees": [
+        {
+            "name": "IVF",
+            "description": "$12,000-$48,000 (depending on your specific needs)",
+            "discounts": 5%
+        },
+        {
+            "name": "ICSI",
+            "description": "$6,000-$9,000 (depending on your specific needs)",
+            "discounts": 20%
+        },
+        {
+            "name": "PGT-T",
+            "description": "$15,000-$37,500 (depending on your specific needs)",
+            "discounts": 5%
+        }
+    ],
+    "social_links": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/HighQualityCare"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/company/high-quality-care"
+        }
+    ]
+}
+]
+
+=== RAW OUTPUT FOR: https://www.pinnaclefertility.com/comprehensive-care ===
+[
+{
+  "name": "Why Pinnacle Fertility",
+  "brief_descRIPTION": "Putting the same old experience behind a shiny new waiting room doesn't make more baBIEs. Pinnacle Fertility is changing fertility treatment with innovative technology, respectful care, and ethical prizing.",
+  "phone": "(801) 555-6753",
+  "email": "
+
+=== RAW OUTPUT FOR: https://www.pinnaclefertility.com/virtual-consultations ===
+{
+    "business_name": "Expérience expert care just un passé",
+    "brief_description": "Expertise pour votre vie fertile, à la hauteur de vos besoins. Même si le traitement n'est pas facile ou risqué pour vous, nous prenons soin d'assurer que votre état de santé est toujours en bonne forme pour réussir vos tâches de travail et les jours d'activité."
+}
+
